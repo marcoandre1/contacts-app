@@ -1,5 +1,7 @@
 # ContactsApp
 
+> **NOTE**: I am using Node v16.20.2 to run the project.
+
 This is the Demo app for Pluralsight's Angular Reactive Forms course.
 
 ## Development server
